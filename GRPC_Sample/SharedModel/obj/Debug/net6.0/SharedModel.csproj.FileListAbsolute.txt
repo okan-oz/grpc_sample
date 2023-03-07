@@ -1,0 +1,12 @@
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/bin/Debug/net6.0/SharedModel.deps.json
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/bin/Debug/net6.0/SharedModel.dll
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/bin/Debug/net6.0/SharedModel.pdb
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/obj/Debug/net6.0/SharedModel.csproj.AssemblyReference.cache
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/obj/Debug/net6.0/SharedModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/obj/Debug/net6.0/SharedModel.AssemblyInfoInputs.cache
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/obj/Debug/net6.0/SharedModel.AssemblyInfo.cs
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/obj/Debug/net6.0/SharedModel.csproj.CoreCompileInputs.cache
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/obj/Debug/net6.0/SharedModel.dll
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/obj/Debug/net6.0/refint/SharedModel.dll
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/obj/Debug/net6.0/SharedModel.pdb
+/Users/okanoz/Projects/grpc_sample/GRPC_Sample/SharedModel/obj/Debug/net6.0/ref/SharedModel.dll

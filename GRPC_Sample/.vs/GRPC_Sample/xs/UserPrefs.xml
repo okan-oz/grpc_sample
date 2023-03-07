@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{67E9F9AD-8CED-47BC-B38A-E73C99EA4F71}|Default">
+  <MonoDevelop.Ide.ItemProperties.SharedModel FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebClient/Pages/Index.cshtml">
+    <Files>
+      <File FileName="RestApi_For_WebClient/Controllers/WeatherForecastController.cs" Line="8" Column="2" />
+      <File FileName="WebClient/appsettings.json" Line="1" Column="1" />
+      <File FileName="RestApi_For_WebClient/appsettings.json" Line="1" Column="1" />
+      <File FileName="WebClient/Pages/Index.cshtml" Line="12" Column="84" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GRPC_Sample" expanded="True">
+            <Node name="WebClient" expanded="True" selected="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="WebClients" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RestApi__For__WebClient PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.WebClients PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{53C85AA7-0B02-414F-B2C2-B25C6858ECB1}" ItemName="RestApi_For_WebClient" ConfigurationId="http" />
+        <StartupItem ItemId="{67E9F9AD-8CED-47BC-B38A-E73C99EA4F71}" ItemName="WebClients" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
