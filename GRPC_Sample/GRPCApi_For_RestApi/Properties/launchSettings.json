@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "GRPCApi_For_RestApi": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5011;https://localhost:5287",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

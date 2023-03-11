@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/GRPCApi_For_RestApi.props" />
+</Project>

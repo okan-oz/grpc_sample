@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebClients", "WebClients\We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedModel", "SharedModel\SharedModel.csproj", "{5069FAD3-57AC-4234-B6E4-24891B63CFF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPCApi_For_RestApi", "GRPCApi_For_RestApi\GRPCApi_For_RestApi.csproj", "{130C4823-FA73-47C5-BB2A-0D0532CABC23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5069FAD3-57AC-4234-B6E4-24891B63CFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5069FAD3-57AC-4234-B6E4-24891B63CFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5069FAD3-57AC-4234-B6E4-24891B63CFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130C4823-FA73-47C5-BB2A-0D0532CABC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130C4823-FA73-47C5-BB2A-0D0532CABC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130C4823-FA73-47C5-BB2A-0D0532CABC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130C4823-FA73-47C5-BB2A-0D0532CABC23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

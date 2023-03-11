@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/GRPCApi_For_RestApi.props" />
+</Project>
